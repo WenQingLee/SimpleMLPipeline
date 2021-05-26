@@ -14,7 +14,8 @@
 
 ## <a name='project-details'>1. Project Details</a>
 
-A simple machine learning pipeline built based on mashable dataset
+A simple machine learning pipeline built based on mashable dataset. The objective is to predict the number of s hares (popularity) on social media platforms for the
+news articles.
 
 ## <a name='overview'>2. Overview of submitted folder and the folder structure</a>
 
